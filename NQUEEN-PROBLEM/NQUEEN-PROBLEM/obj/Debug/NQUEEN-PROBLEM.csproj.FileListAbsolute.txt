@@ -1,0 +1,6 @@
+c:\users\zass\documents\visual studio 2015\Projects\NQUEEN-PROBLEM\NQUEEN-PROBLEM\bin\Debug\NQUEEN-PROBLEM.exe.config
+c:\users\zass\documents\visual studio 2015\Projects\NQUEEN-PROBLEM\NQUEEN-PROBLEM\bin\Debug\NQUEEN-PROBLEM.exe
+c:\users\zass\documents\visual studio 2015\Projects\NQUEEN-PROBLEM\NQUEEN-PROBLEM\bin\Debug\NQUEEN-PROBLEM.pdb
+c:\users\zass\documents\visual studio 2015\Projects\NQUEEN-PROBLEM\NQUEEN-PROBLEM\obj\Debug\NQUEEN-PROBLEM.csprojResolveAssemblyReference.cache
+c:\users\zass\documents\visual studio 2015\Projects\NQUEEN-PROBLEM\NQUEEN-PROBLEM\obj\Debug\NQUEEN-PROBLEM.exe
+c:\users\zass\documents\visual studio 2015\Projects\NQUEEN-PROBLEM\NQUEEN-PROBLEM\obj\Debug\NQUEEN-PROBLEM.pdb
